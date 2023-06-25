@@ -8,4 +8,6 @@ Generate a key pair with the first prime number and the second prime number. The
 If you want to Decrypt the message, just copy the encrypted message, paste it into the write message rectangle and click the Decrypt message button.
 
 
+made by: arrudagba
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
